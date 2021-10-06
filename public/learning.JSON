@@ -1,0 +1,34 @@
+[
+    {
+        "key": "1",
+        "name": "Machine Learning",
+        "cost": 34000,
+        "star": 5,
+        "starCount": 3243445,
+        "img": "https://www.atriainnovation.com/wp-content/uploads/2021/02/portada-1080x675.jpg"
+    },
+    {
+        "key": "2",
+        "name": "Artificial Intelligence",
+        "cost": 49000,
+        "star": 4.9,
+        "starCount": 2243445,
+        "img": "https://img.etimg.com/thumb/msid-77198656,width-640,resizemode-4,imgsize-678126/first-what-is-the-big-fuss-really.jpg"
+    },
+    {
+        "key": "3",
+        "name": "Web Development",
+        "cost": 4500,
+        "star": 4.8,
+        "starCount": 1843445,
+        "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png"
+    },
+    {
+        "key": "4",
+        "name": "PhotoShop",
+        "cost": 3700,
+        "star": 4.7,
+        "starCount": 2280000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"
+    }
+]

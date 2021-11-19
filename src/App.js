@@ -38,7 +38,7 @@ function App() {
           </Route>
 
 
-          <Route exact path="/*">
+          <Route path="/*">
             <NotFound></NotFound>
           </Route>
 
